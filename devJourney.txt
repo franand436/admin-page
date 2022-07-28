@@ -1,0 +1,9 @@
+development notes
+07/28/2022
+-added MaterialUI & Recharts
+    -npm install @mui/icons-material
+        -https://mui.com/material-ui/material-icons/
+    -npm install recharts
+        -https://recharts.org/en-US/
+
+-cleaned up html file
